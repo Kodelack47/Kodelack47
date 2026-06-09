@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a front-end focused full-stack developer with experience in AI model evaluation, web development, and UX-focused projects.<br><br>I’ve built projects using React, JavaScript, TypeScript, Node.js, and modern web tools. I’m currently strengthening my computer science foundation while preparing for my B.S. in Computer Science.<br><br>My interests include AI tools, dashboards, cybersecurity, and building practical software that solves real problems.<br><br>🔭 I’m currently working on full-stack web projects and AI model evaluation<br><br>🌱 I’m currently learning computer science, networking, and cybersecurity<br><br>💬 Ask me about frontend development, AI training, UX design, and GitHub projects<br><br>🤝 I’m open to collaborating on web apps, dashboards, and AI tools<br><br>⚡ Fun fact: I started in tech through Year Up and I’m now preparing for my Computer Science degree
+I’m a front-end focused full-stack developer with experience in AI model evaluation, web development, and UX-focused projects.<br><br>I’ve built projects using React, JavaScript, TypeScript, Node.js, and modern web tools. I’m currently strengthening my computer science foundation while preparing for my B.S. in Computer Science.<br><br>Fun fact: I started in tech through Year Up and I’m now preparing for my Computer Science degree
 
 
 # 💻 Tech Stack:
@@ -8,8 +8,4 @@ I’m a front-end focused full-stack developer with experience in AI model evalu
 ![](https://github-readme-stats.shion.dev/api?username=Kodelack47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Kodelack47&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kodelack47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
