@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a front-end focused full-stack developer with experience in AI model evaluation, web development, and UX-focused projects.<br><br>I’ve built projects using React, JavaScript, TypeScript, Node.js, and modern web tools. I’m currently strengthening my computer science foundation while preparing for my B.S. in Computer Science.<br><br>Fun fact: I started in tech through Year Up and I’m now preparing for my Computer Science degree
+I’m a front-end focused full-stack developer with experience in AI model evaluation, web development, and UX-focused projects.<br><br>I’ve built projects using React, JavaScript, TypeScript, Node.js, and modern web tools. I’m currently strengthening my computer science foundation while preparing for my B.S. in Computer Science.<br><br>Fun fact: I started in tech through Year Up and I’m now preparing to finish my Computer Science degree
 
 
 # 💻 Tech Stack:
