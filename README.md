@@ -15,6 +15,8 @@ like a RAG chatbot that answers customer questions for my own Etsy shop.
 | [**TunkaraBot**](https://github.com/Kodelack47/Chatbot) | RAG (retrieval-augmented generation) FAQ chatbot for my Etsy shop. Answers are grounded in a real FAQ dataset instead of the LLM guessing | Python · LangChain · RAG |
 | [**GoldCast**](https://github.com/Kodelack47/CS311-AI-GoldCastReport) | Predicts next-day gold prices and compares Random Forest vs. Gradient Boosting with MAE / RMSE / R² | Python · scikit-learn · pandas |
 | [**ShopTrack**](https://github.com/Kodelack47/shoptrack_prototype) | Product listings app built from user stories, using a repository pattern and saving data in the browser | JavaScript · HTML · CSS |
+| [**SQL & Database Projects**](https://github.com/Kodelack47/sql-database-projects) | Retail database design plus joins, aggregates, views, stored procedures, triggers, and transactions | SQL · MySQL · SQLite |
+| [**Student Records Manager**](https://github.com/Kodelack47/student-records-manager) | Command-line CRUD app with input validation and error handling | Python · SQLite |
 | [**Housing Price Prediction**](https://github.com/Kodelack47/Price-Prediction) | Linear regression model that estimates a house's price from its size, with charts | Python · NumPy · matplotlib |
 | [**National Parks USA**](https://github.com/Kodelack47/NationalParks-USA) · [Live site](https://kodelack47.github.io/NationalParks-USA/) | Multi-page site for exploring U.S. national parks | HTML · CSS · JavaScript |
 | [**Text Adventure Game**](https://github.com/Kodelack47/Text-Adventure-Game) | Branching story game with four endings; saves each playthrough to JSON | Python · JSON · regex |
