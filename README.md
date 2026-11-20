@@ -12,13 +12,14 @@ like a RAG chatbot that answers customer questions for my own Etsy shop.
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**TunkaraBot**](https://github.com/Kodelack47/Chatbot) | RAG (retrieval-augmented generation) FAQ chatbot for my Etsy shop. Answers are grounded in a real FAQ dataset instead of the LLM guessing | Python · LangChain · RAG |
-| [**GoldCast**](https://github.com/Kodelack47/CS311-AI-GoldCastReport) | Predicts next-day gold prices and compares Random Forest vs. Gradient Boosting with MAE / RMSE / R² | Python · scikit-learn · pandas |
-| [**ShopTrack**](https://github.com/Kodelack47/shoptrack_prototype) | Product listings app built from user stories, using a repository pattern and saving data in the browser | JavaScript · HTML · CSS |
-| [**SQL & Database Projects**](https://github.com/Kodelack47/sql-database-projects) | Retail database design plus joins, aggregates, views, stored procedures, triggers, and transactions | SQL · MySQL · SQLite |
+| [**TunkaraBot**](https://github.com/Kodelack47/tunkarabot-rag-chatbot) | RAG (retrieval-augmented generation) FAQ chatbot for my Etsy shop. Answers are grounded in a real FAQ dataset instead of the LLM guessing | Python · LangChain · RAG |
+| [**GoldCast**](https://github.com/Kodelack47/goldcast-price-predictor) | Predicts next-day gold prices and compares Random Forest vs. Gradient Boosting with MAE / RMSE / R² | Python · scikit-learn · pandas |
+| [**ShopTrack**](https://github.com/Kodelack47/shoptrack) | Product listings app built from user stories, using a repository pattern and saving data in the browser | JavaScript · HTML · CSS |
+| [**Electronics Retail Database**](https://github.com/Kodelack47/electronics-retail-database) | Normalized (3NF) MySQL design with an ER diagram, plus companion repos for [queries](https://github.com/Kodelack47/electronics-retail-sql-queries) and [advanced SQL](https://github.com/Kodelack47/electronics-retail-advanced-sql) (views, procedures, triggers, transactions) | SQL · MySQL |
 | [**Student Records Manager**](https://github.com/Kodelack47/student-records-manager) | Command-line CRUD app with input validation and error handling | Python · SQLite |
-| [**Housing Price Prediction**](https://github.com/Kodelack47/Price-Prediction) | Linear regression model that estimates a house's price from its size, with charts | Python · NumPy · matplotlib |
-| [**National Parks USA**](https://github.com/Kodelack47/NationalParks-USA) · [Live site](https://kodelack47.github.io/NationalParks-USA/) | Multi-page site for exploring U.S. national parks | HTML · CSS · JavaScript |
+| [**Housing Price Prediction**](https://github.com/Kodelack47/housing-price-prediction) | Linear regression model that estimates a house's price from its size, with charts | Python · NumPy · matplotlib |
+| [**National Parks USA**](https://github.com/Kodelack47/NationalParks-USA) · [Live site](https://kodelack47.github.io/NationalParks-USA/) | Responsive site: live search of 359 national parks, a guide to 48 peaks, and a validated booking form | HTML · CSS · JavaScript |
+| [**NYC Photography**](https://github.com/Kodelack47/NYC-Photography) · [Live site](https://kodelack47.github.io/NYC-Photography/) | Print storefront with a 16-print exhibition, a cart saved in localStorage, checkout, and validated forms | HTML · CSS · JavaScript |
 | [**Text Adventure Game**](https://github.com/Kodelack47/Text-Adventure-Game) | Branching story game with four endings; saves each playthrough to JSON | Python · JSON · regex |
 
 ---
