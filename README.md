@@ -13,6 +13,7 @@ like a RAG chatbot that answers customer questions for my own Etsy shop.
 | Project | What it does | Tech |
 |---|---|---|
 | [**TunkaraBot**](https://github.com/Kodelack47/tunkarabot-rag-chatbot) | RAG (retrieval-augmented generation) FAQ chatbot for my Etsy shop. Answers are grounded in a real FAQ dataset instead of the LLM guessing | Python · LangChain · RAG |
+| [**RL Trading Agent**](https://github.com/Kodelack47/rl-trading-agent) | Tabular Q-learning agent that learns to buy, sell, or hold on simulated prices, built from scratch and compared against buy-and-hold and random baselines | Python · NumPy · pandas |
 | [**GoldCast**](https://github.com/Kodelack47/goldcast-price-predictor) | Predicts next-day gold prices and compares Random Forest vs. Gradient Boosting with MAE / RMSE / R² | Python · scikit-learn · pandas |
 | [**ShopTrack**](https://github.com/Kodelack47/shoptrack) | Product listings app built from user stories, using a repository pattern and saving data in the browser | JavaScript · HTML · CSS |
 | [**Electronics Retail Database**](https://github.com/Kodelack47/electronics-retail-database) | Normalized (3NF) MySQL design with an ER diagram, plus companion repos for [queries](https://github.com/Kodelack47/electronics-retail-sql-queries) and [advanced SQL](https://github.com/Kodelack47/electronics-retail-advanced-sql) (views, procedures, triggers, transactions) | SQL · MySQL |
